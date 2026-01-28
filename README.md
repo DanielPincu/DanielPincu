@@ -59,7 +59,3 @@ Most of my work is showcased on my portfolio and focuses on:
 - LinkedIn: https://www.linkedin.com/in/danielpincu
 
 Thanks for visiting my profile.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPincu&count_private=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPincu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
