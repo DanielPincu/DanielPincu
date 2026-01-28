@@ -9,7 +9,7 @@ My work centers on creating solutions that are reliable, scalable, and thoughtfu
 I enjoy working across the full development process, from early concepts and requirements to implementation and refinement.  
 This includes building not only websites, but also full web applications, backend-driven systems, and CMS solutions tailored to real-world needs.
 
-I am particularly interested in how frontend and backend technologies come together to form cohesive platforms that are efficient for developers and intuitive for users. Curiosity plays a central role in how I work, and I continuously explore new tools, frameworks, and workflows to improve performance, accessibility, and code quality  [oai_citation:1‡DanielPincuCV.pdf](sediment://file_00000000d9d47246be4564bb6ee1045a).
+I am particularly interested in how frontend and backend technologies come together to form cohesive platforms that are efficient for developers and intuitive for users. Curiosity plays a central role in how I work, and I continuously explore new tools, frameworks, and workflows to improve performance, accessibility, and code quality.
 
 ## Education
 ### Web Development Professional Bachelor (Top-up)
